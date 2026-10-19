@@ -1,0 +1,1 @@
+Ghi chu: Da hoc git add, commit va log.
